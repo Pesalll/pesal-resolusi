@@ -1,0 +1,2 @@
+# pesal-resolusi
+Resolusi gweh
